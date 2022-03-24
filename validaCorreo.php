@@ -28,7 +28,7 @@
                                   "Correo"=>"susana@correo.com"),
                             array("Nombre"=>"Martín",
                                   "Dirección"=>"Valencia",
-                                  "Telefono"=>555555555,
+                                  "Telefono"=>555555556,
                                   "Correo"=>"martin@educa.madrid.org"),
                             array("Nombre"=>"Laura",
                                   "Dirección"=>"Sevilla",
